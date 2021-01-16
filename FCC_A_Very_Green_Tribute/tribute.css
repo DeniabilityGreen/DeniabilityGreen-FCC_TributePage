@@ -1,0 +1,56 @@
+body {
+  background-image: url("https://scontent.flhr3-1.fna.fbcdn.net/v/t1.0-9/52883806_10157110249269629_4622127088218931200_o.jpg?_nc_cat=108&ccb=2&_nc_sid=19026a&_nc_ohc=DaqvrXGFEtYAX-qxja1&_nc_ht=scontent.flhr3-1.fna&oh=c3a7ae52c3e8e1c04f2c95b311efcbf1&oe=6024F0D8");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+p {
+  color: #ffff66;
+  font-size: 30px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 50px;
+  text-align: center;
+}
+
+.MainHead {
+  height: auto;
+}
+
+.MainTitle {
+  font-size: 50px;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+#img-div {
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+
+#tribute-link {
+  font-size: 30px;
+  display: block;
+  align-content: center;
+  margin: auto;
+  text-align: center;
+}
+
+a {
+  color: #ffff66;
+}
+
+a:hover {
+  color: #d9ccff;
+}
