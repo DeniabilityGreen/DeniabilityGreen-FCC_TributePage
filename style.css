@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+}
+
+h1 {
+  margin-top:0;
+}
+ .topContainer {
+  background-color: #bedcfa;
+}
+
+.middleContainer {
+  background-color: purple;
+  height: 200px;
+  width: 200px;
+}
+
+.bottomContainer {
+  background-color: yellow;
+  height: 200px;
+  width: 200px;
+}
+.pro {
+  text-decoration: underline;
+}
